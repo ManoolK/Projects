@@ -8,8 +8,8 @@ View these projects as my professional portfolio.
 
 
 ## Data Manipulation
-- [Generating keywords for Google Ads](https://github.com/ManoolK/Projects/blob/master/generating_keywords_for_google_ads.ipynb)
+- [Generating keywords for Google Ads](https://nbviewer.jupyter.org/github/ManoolK/Projects/blob/master/generating_keywords_for_google_ads.ipynb)
 
 ## Data Visualization
-- [Super Bowl Halftime Shows](https://github.com/ManoolK/Projects/blob/master/project_superbowl_halftime_shows.ipynb).<br>
+- [Super Bowl Halftime Shows](https://nbviewer.jupyter.org/github/ManoolK/Projects/blob/master/project_superbowl_halftime_shows.ipynb).<br>
 Goal of this project is to find out how some of the elements of the Super Bowl show interact with each other.
