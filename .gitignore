@@ -6,6 +6,9 @@ __pycache__/
 *.pyc
 *~
 
+### Storing API keys ###
+test_api_keys.yml
+
 # C extensions
 *.so
 

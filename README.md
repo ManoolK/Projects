@@ -11,6 +11,7 @@ View these projects as my professional portfolio.
 - [Generating keywords for Google Ads](https://nbviewer.jupyter.org/github/ManoolK/Projects/blob/master/generating_keywords_for_google_ads.ipynb)
 - [Exploring LEGO](https://nbviewer.jupyter.org/github/ManoolK/Projects/blob/master/exploring_lego.ipynb)
 - [Discovery of handwashing](https://nbviewer.jupyter.org/github/ManoolK/Projects/blob/master/discovery_of_handwashing.ipynb)
+- [Exploring the cryptocurrency market](https://nbviewer.jupyter.org/github/ManoolK/Projects/blob/master/exploring_the_cryptocurrency_market.ipynb)
 
 ## Data Visualization
 - [Super Bowl Halftime Shows](https://nbviewer.jupyter.org/github/ManoolK/Projects/blob/master/project_superbowl_halftime_shows.ipynb).<br>
