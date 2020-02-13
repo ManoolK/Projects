@@ -3,9 +3,13 @@ These projects are examples of my solution to real-world problems.<br>
 View these projects as my professional portfolio.
 
 ## Contents
+- [Importing&Cleaning](#importing_n_cleaning)
 - [Data Manipulation](#data-manipulation)
 - [Data Visualization](#data-visualization)
 
+
+## Importing&Cleaning
+- [Exploring the evolution of Linux](https://nbviewer.jupyter.org/github/ManoolK/Projects/blob/master/exploring_the_evolution_of_linux.ipynb)
 
 ## Data Manipulation
 - [Generating keywords for Google Ads](https://nbviewer.jupyter.org/github/ManoolK/Projects/blob/master/generating_keywords_for_google_ads.ipynb)
