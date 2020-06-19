@@ -3,7 +3,7 @@ These projects are examples of my solution to real-world problems.<br>
 View these projects as my professional portfolio.
 
 ## Contents
-- [Importing&Cleaning](#importing_n_cleaning)
+- [Importing&Cleaning](#importingcleaning)
 - [Data Manipulation](#data-manipulation)
 - [Data Visualization](#data-visualization)
 
@@ -16,6 +16,8 @@ View these projects as my professional portfolio.
 - [Exploring LEGO](https://nbviewer.jupyter.org/github/ManoolK/Projects/blob/master/exploring_lego.ipynb)
 - [Discovery of handwashing](https://nbviewer.jupyter.org/github/ManoolK/Projects/blob/master/discovery_of_handwashing.ipynb)
 - [Exploring the cryptocurrency market](https://nbviewer.jupyter.org/github/ManoolK/Projects/blob/master/exploring_the_cryptocurrency_market.ipynb)
+- [Google Play Store Apps](https://nbviewer.jupyter.org/github/ManoolK/Projects/blob/master/google_play_store_apps.ipynb)
+
 
 ## Data Visualization
 - [Super Bowl Halftime Shows](https://nbviewer.jupyter.org/github/ManoolK/Projects/blob/master/project_superbowl_halftime_shows.ipynb).<br>
